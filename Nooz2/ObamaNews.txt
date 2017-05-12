@@ -1,0 +1,61 @@
+April 23, 2012; ABC World News Tonight; 34 words; Government Agencies/Legislatures
+March 15, 2012; ABC World News Tonight; 123 words; U.S. Foreign Affairs
+April 4, 2012; CBS Evening News; 23 words; Domestic Terrorism
+February 13, 2012; CBS Evening News; 23 words; Economy/Economics
+January 13, 2012; CBS Evening News; 25 words; U.S. Foreign Affairs
+January 10, 2012; CBS The Early Show; 91 words; Government Agencies/Legislatures
+January 30, 2012; CBS The Early Show; 14 words; Religion
+April 16, 2012; CNN Anderson Cooper 360; 332 words; U.S. Foreign Affairs
+March 12, 2012; CNN Daytime; 25 words; Campaigns/Elections/Politics
+March 27, 2012; CNN Daytime; 360 words; Health/Medicine
+March 8, 2012; CNN Erin Burnett Outfront; 177 words; Campaigns/Elections/Politics
+February 21, 2012; CNN Erin Burnett Outfront; 29 words; Economy/Economics
+March 30, 2012; CNN Erin Burnett Outfront; 38 words; U.S. Foreign Affairs
+April 4, 2012; CNN John King, USA; 88 words; Court/Legal System
+February 8, 2012; CNN John King, USA; 88 words; Health/Medicine
+February 6, 2012; CNN Situation Room; 190 words; U.S. Foreign Affairs
+February 7, 2012; CNN unspecified show; 135 words; U.S. Foreign Affairs
+March 16, 2012; Fox News Daytime; 298 words; Defense/Military (Domestic)
+January 31, 2012; Fox News Daytime; 329 words; Economy/Economics
+March 27, 2012; Fox News Daytime; 48 words; Health/Medicine
+January 31, 2012; Fox News Daytime; 168 words; Health/Medicine
+February 9, 2012; Fox News Fox Report with Shepard Smith; 123 words; Health/Medicine
+March 28, 2012; Fox News Fox Report with Shepard Smith; 137 words; Health/Medicine
+February 9, 2012; Fox News Fox Report with Shepard Smith; 138 words; Health/Medicine
+March 8, 2012; Fox News Fox Report with Shepard Smith; 92 words; U.S. Foreign Affairs
+March 8, 2012; Fox News Fox Report with Shepard Smith; 119 words; U.S. Foreign Affairs
+May 25, 2012; Fox News Fox Report with Shepard Smith; 167 words; U.S. Foreign Affairs
+March 14, 2012; Fox News Hannity; 299 words; Domestic Terrorism
+April 23, 2012; Fox News Hannity; 93 words; Government Agencies/Legislatures
+March 21, 2012; Fox News O’Reilly Factor; 201 words; Economy/Economics
+March 21, 2012; Fox News O’Reilly Factor; 132 words; Environment
+April 12, 2012; Fox News Special Report with Bret Baier; 254 words; Campaigns/Elections/Politics
+March 13, 2012; Fox News Special Report with Bret Baier; 141 words; Economy/Economics
+March 9, 2012; Fox News Special Report with Bret Baier; 160 words; Environment
+January 13, 2012; Fox News Special Report with Bret Baier; 55 words; Government Agencies/Legislatures
+March 1, 2012; Fox News Special Report with Bret Baier; 153 words; Government Agencies/Legislatures
+March 29, 2012; Fox News Special Report with Bret Baier; 15 words; Health/Medicine
+January 13, 2012; Fox News Special Report with Bret Baier; 141 words; U.S. Foreign Affairs
+May 30, 2012; Fox News Special Report with Bret Baier; 151 words; U.S. Foreign Affairs
+February 24, 2012; Fox News Special Report with Bret Baier; 179 words; U.S. Foreign Affairs
+March 29, 2012; Houston Chronicle; 753 words; Campaigns/Elections/Politics
+May 16, 2012; Houston Chronicle; 679 words; Environment
+February 6, 2012; MSNBC Daytime; 69 words; U.S. Foreign Affairs
+April 16, 2012; MSNBC Daytime; 121 words; U.S. Foreign Affairs
+February 13, 2012; MSNBC Hardball with Chris Matthews; 310 words; Religion
+February 7, 2012; NBC Nightly News; 114 words; Campaigns/Elections/Politics
+February 10, 2012; NBC Nightly News; 181 words; Health/Medicine
+April 3, 2012; New York Times; 2973 words; Government Agencies/Legislatures
+January 30, 2012; New York Times; 1335 words; U.S. Foreign Affairs
+January 4, 2012; New York Times; 1371 words; U.S. Foreign Affairs
+April 5, 2012; PBS NewsHour, 1st half hour; 22 words; Court/Legal System
+April 13, 2012; PBS NewsHour, 1st half hour; 445 words; Lifestyle
+March 30, 2012; PBS NewsHour, 2nd half hour; 6 words; U.S. Foreign Affairs
+May 22, 2012; Wall Street Journal; 1026 words; Campaigns/Elections/Politics
+February 22, 2012; Wall Street Journal; 1076 words; Economy/Economics
+May 18, 2012; Wall Street Journal; 1749 words; U.S. Foreign Affairs
+February 9, 2012; Washington Post; 1039 words; U.S. Foreign Affairs
+February 15, 2012; Washington Post; 1043 words; U.S. Foreign Affairs
+January 26, 2012; Washington Post; 1257 words; U.S. Foreign Affairs
+March 14, 2012; Washington Post; 1343 words; U.S. Foreign Affairs
+Number of Stories: 60; Number of Sources: 23; Number of Words: 32270; Number of Topics: 11

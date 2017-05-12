@@ -1,0 +1,9 @@
+To Do - project 4
+
+-finish creating stub code
+-write method bodies for easy methods/classes, for example some of the views
+-convert non-model classes to models (e.x. NewsMaker to NewsMakerModel
+-write Javadoc
+-change classes that will be affected by MVC changes, such as NoozFileProcessor
+-test
+-test in mimir
